@@ -1,2 +1,4 @@
-# Material Estoque
-Lista de Estoque NDI
+# Primeiro Readme no GIT
+Alterado a descrição pelo VSC.
+
+Repositório criado no Curso em Vídeo
